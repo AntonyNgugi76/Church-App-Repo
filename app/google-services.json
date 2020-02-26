@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326402988845",
+    "firebase_url": "https://canvas-griffin-233009.firebaseio.com",
+    "project_id": "canvas-griffin-233009",
+    "storage_bucket": "canvas-griffin-233009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326402988845:android:87a135052fbd77ade951a4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326402988845-ljeejnsmv26kg95j4f64sirstci5p31i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "fe041392dfba3d94979a6c25faa1e147a0bd4817"
+          }
+        },
+        {
+          "client_id": "326402988845-e8fouo4mu97a9rkdkstddevsu7e57n87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8EDyv41RePV7K6BVuV4ACGK4RRBBmiGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326402988845-e8fouo4mu97a9rkdkstddevsu7e57n87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
